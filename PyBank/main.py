@@ -45,8 +45,8 @@ print("Analysis")
 print("Total MOnths:", total_months)
 print("Total:", net_total)
 print("Average Change:", average_change)
-print("Greatest Increase in Profits:", biggest_increase_month, "($", biggest_increase, ")")
-print("Greatest DEcrease in Profits:", biggest_decrease_month, "($", biggest_decrease, ")")
+print("Greatest Increase in Profits:", biggest_increase_month, "($", biggest_increase, "")
+print("Greatest DEcrease in Profits:", biggest_decrease_month, "($", biggest_decrease, "")
 
 
 
